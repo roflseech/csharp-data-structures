@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PDG.DataStructures
+namespace DataStructures
 {
     /// <summary>
     /// Basic binary heap, which stores elements in array. 

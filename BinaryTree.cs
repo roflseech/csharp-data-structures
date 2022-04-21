@@ -12,10 +12,6 @@ namespace DataStructures
         {
 
         }
-        public BinaryTree(IComparer<T> comparer)
-        {
-
-        }
         public bool Add(T value)
         {
             if (value == null) throw new ArgumentNullException();

@@ -6,7 +6,7 @@ namespace DataStructures
 {
     public static class InsertionSort
     {
-        public static void Sort<T> (T[] array) where T : IComparable
+        public static void InsertionSort<T> (T[] array) where T : IComparable
         {
             for(int i = 1; i < array.Length; i++)
             {

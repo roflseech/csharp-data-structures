@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PDG.DataStructures
+namespace DataStructures
 {
     /// <summary>
     /// Collection of disjoint sets.
