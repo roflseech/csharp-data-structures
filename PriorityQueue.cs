@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PDG.DataStructures
+namespace DataStructures
 {
     /// <summary>
     /// Basic priority queue, which uses array-based BinaryHeap to store elements.
